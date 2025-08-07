@@ -1,8 +1,7 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.apikey =
-ptlc_YuKr3FZyAp6RN3ib97omxHO3TraBHsGThbJh7c67tdM
+global.apikey = 'YuKr3FZyAp6RN3ib97omxHO3TraBHsGThbJh7c67tdM'
 global.rosekey = '-' //https://api.itsrose.life
 //—————「 Set Nama Bot & Own 」—————//
 global.namabot = 'AbRuRi_bot'
